@@ -1,0 +1,9 @@
+---
+applications:
+- name: slackbot-titog
+  health-check-type: process
+  memory: 128MB
+  no-route: true
+  buildpacks:
+      - python_buildpack
+  command: python run.py

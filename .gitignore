@@ -9,6 +9,9 @@ __pycache__/
 # Token Example
 token
 
+# VSCode stuff
+.vscode
+
 # Distribution / packaging
 .Python
 build/

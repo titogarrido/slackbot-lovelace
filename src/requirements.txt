@@ -1,0 +1,3 @@
+google-api-python-client==1.7.6
+slackclient==1.3.0
+StackAPI==0.1.9
